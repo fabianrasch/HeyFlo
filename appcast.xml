@@ -8,7 +8,7 @@
             <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <enclosure
-                url="https://github.com/fabianrasch/HeyFlo-App/releases/download/v1.0.0/HeyFlo.zip"
+                url="https://github.com/fabianrasch/HeyFlo-Updates/releases/download/v1.0.0/HeyFlo.zip"
                 sparkle:edSignature="GCwaTNUYPE8dga8qgzttsrufNe7ufsyHQr/iP1IzDwe4nJklQwwIyiLovM8GCNUMTDtoyAnWEWjV3asGioQuBQ=="
                 length="14120317"
                 type="application/octet-stream" />
@@ -21,7 +21,7 @@
             <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <enclosure
-                url="https://github.com/fabianrasch/HeyFlo-App/releases/download/v1.0.0/HeyFlo.zip"
+                url="https://github.com/fabianrasch/HeyFlo-Updates/releases/download/v1.0.0/HeyFlo.zip"
                 sparkle:edSignature="PLACEHOLDER_REPLACE_AFTER_SIGNING"
                 length="0"
                 type="application/octet-stream" />
