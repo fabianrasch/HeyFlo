@@ -2,6 +2,19 @@
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
     <channel>
         <item>
+            <title>Version 1.0.3 (beta)</title>
+            <pubDate>Fri, 24 Apr 2026 09:15:34 +0000</pubDate>
+            <sparkle:channel>beta</sparkle:channel>
+            <sparkle:version>10</sparkle:version>
+            <sparkle:shortVersionString>1.0.3</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://github.com/fabianrasch/HeyFlo-App/releases/download/v1.0.3/HeyFlo.zip"
+                sparkle:edSignature="FwJVYM09EW+svE5Ql2M5vJiYINliRt4/v/7dxaVNWeZ1DwrOoh4NxrO51Y3PUPF48+RsXDaszYHPBqiQTzrgBA=="
+                length="14185367"
+                type="application/octet-stream" />
+        </item>
+        <item>
             <title>Version 1.0.2 (beta)</title>
             <pubDate>Fri, 24 Apr 2026 09:03:20 +0000</pubDate>
             <sparkle:channel>beta</sparkle:channel>
