@@ -9,7 +9,7 @@
             <sparkle:shortVersionString>1.0.9</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <enclosure
-                url="https://github.com/fabianrasch/HeyFlo-App/releases/download/v1.0.9/HeyFlo.zip"
+                url="https://github.com/fabianrasch/HeyFlo-Updates/releases/download/v1.0.9/HeyFlo.zip"
                 sparkle:edSignature="RPAnKj0CkxnZJ6MEQFSC2cOXzJTg9iGgs/hA06xrSZz5Hzbl+VU0mXVwadbHx/Gbn6lThWFGKqoputsBoaZ6Dw=="
                 length="16711053"
                 type="application/octet-stream" />
@@ -29,7 +29,7 @@
 - Wörterbuch + Snippets synchronisieren korrekt (Supabase-Tabellen angelegt)
             ]]></description>
             <enclosure
-                url="https://github.com/fabianrasch/HeyFlo-App/releases/download/v1.0.9/HeyFlo.zip"
+                url="https://github.com/fabianrasch/HeyFlo-Updates/releases/download/v1.0.9/HeyFlo.zip"
                 sparkle:edSignature="v6ZGfJvAJlsXvQXmEJAM97DXFCLY8+FfG1q7tj5VY8bRzFi0tG3YklntYfI3jSAt9kE/EfWJ/zqQ2Fnq7eHEAw=="
                 length="14785373"
                 type="application/octet-stream" />
